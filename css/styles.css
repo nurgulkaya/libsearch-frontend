@@ -4,9 +4,9 @@ body{
 	background-repeat: no-repeat;
 	overflow: hidden;
 	background-size: cover;
-	background-color: #f4cac5;
-
+	background-color: #F4CAC5;
 }
+
 .container{
   width: 380px;
   margin: 5% auto;
